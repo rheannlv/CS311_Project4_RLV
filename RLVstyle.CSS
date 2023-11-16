@@ -1,0 +1,26 @@
+#nav {
+    color: black;
+    background-color: lightcyan;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+#tag {
+    position: fixed;
+    bottom: -100px;
+}
+
+#works {
+    padding: 20px;
+}
+
+#bio {
+    
+    padding: 20px;
+}
+
+#gC {
+    
+    padding: 20px;
+}
+
